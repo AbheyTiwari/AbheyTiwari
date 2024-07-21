@@ -1,3 +1,5 @@
+![logo](istockphoto-1469534804-1024x1024.jpg)
+
 <h1 align="center">Hi 👋, I'm Abhey Tiwari</h1>
 <h3 align="center">Abhey | Python & C++ Dev | WordPress | Debater | Environmentalist</h3>
 
