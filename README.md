@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Abhey Tiwari</h1>
 <h3 align="center">Abhey | Python & C++ Dev | WordPress | Debater | Environmentalist</h3>
 
-<img align="right" alt="cooding" width="400" src= "https://raw.githubusercontent.com/Azael-Dev/Azael-Dev/master/coding.gif">
+<img align="right" alt="cooding" width="400" src= "https://images.squarespace-cdn.com/content/v1/56af9236b6aa60cdf1c52b4b/1464950341113-VN4PQR9DU6LSKDIVHPGI/image-asset.gif">
 
 <p align="left"> <a href="https://twitter.com/abhey_tiwari" target="blank"><img src="https://img.shields.io/twitter/follow/abhey_tiwari?logo=twitter&style=for-the-badge" alt="abhey_tiwari" /></a> </p>
 
