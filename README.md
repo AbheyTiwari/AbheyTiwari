@@ -1,19 +1,118 @@
-![logo](istockphoto-1469534804-1024x1024.jpg)
+![banner](https://raw.githubusercontent.com/your-username/your-repo/main/assets/banner.png)
 
 <h1 align="center">Hi 👋, I'm Abhey Tiwari</h1>
-<h3 align="center">Abhey | Python & C++ Dev | WordPress | Debater | Environmentalist</h3>
+<h3 align="center">
+Math + CS | AI Systems Builder | Cloud VM Survivor | Research-Oriented Developer
+</h3>
 
-<img align="right" alt="coding" width="400" src= "https://cdn.dribbble.com/users/1187836/screenshots/6539429/programer.gif">
+<img align="right" alt="coding" width="380"
+src="https://cdn.dribbble.com/users/1187836/screenshots/6539429/programer.gif"/>
 
-<p align="left"> <a href="https://twitter.com/abhey_tiwari" target="blank"><img src="https://img.shields.io/twitter/follow/abhey_tiwari?logo=twitter&style=for-the-badge" alt="abhey_tiwari" /></a> </p>
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/abhey_tiwari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abhey_tiwari" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/abhey-tiwari-891710274" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhey-tiwari-891710274" height="30" width="40" /></a>
+### 🧠 About Me
+
+- 🎓 BSc (Prog) **Mathematical Sciences** @ Delhi University  
+- 🤖 Building **agentic AI systems**, RAG pipelines, and automation tools  
+- ☁️ Deploying AI apps on **raw Linux VMs (GCP)** instead of hiding behind managed magic  
+- 🧪 Working on **biological & mathematical research** (fungal degradation of tire waste)  
+- 🛠️ I care about **how systems actually behave in production**, not demo-day illusions  
+
+I like things that:
+- break when they leave localhost  
+- force me to understand OS, networking, and runtime behavior  
+- ship as working MVPs, not just notebooks  
+
+---
+
+### 🚀 What I’ve Built Recently
+
+**🧠 INDICA — Agentic AI Assistant**
+- RAG-based personal assistant with short & long-term memory
+- Local-first LLMs via **Ollama**, optional cloud models
+- Tool calling, task planning, automation hooks
+- Vector memory + structured reasoning
+
+**🌐 Full-Stack AI Web App (GCP VM)**
+- Python **3.13**
+- FastAPI + Gunicorn + Uvicorn workers
+- Whisper (speech-to-text) + Coqui TTS
+- Manual SSL, env vars, secrets, firewall rules
+- Debugged real-world issues: CORS, workers, shared state, networking
+
+**☁️ Cloud Bootleg Staging**
+- ARM-based staging server on an old Android device
+- Saved cloud costs while testing production behavior
+- SSH, FastAPI, reverse proxy chaos included
+
+**🔬 Research**
+- *Fungal Degradation of Tire Waste*  
+- Mathematical modeling using coupled ODEs + Monod kinetics  
+- Focus on sustainable recycling & environmental impact  
+
+---
+
+### 🧰 Tech Stack
+
+#### Languages
+- **Python** (production, AI, backend)
+- **C++** (foundations, performance mindset)
+- SQL (practical use)
+- HTML / CSS
+
+#### AI & ML
+- RAG pipelines
+- Vector databases & embeddings
+- Agentic workflows
+- LLM orchestration (local + cloud)
+- Whisper, TTS systems
+
+#### Backend & Infra
+- FastAPI
+- Gunicorn / Uvicorn
+- Linux (Ubuntu)
+- Raw GCP VMs
+- SSH, firewalls, networking
+- Environment & secret management
+
+#### Tools
+- Git & GitHub (clean repo discipline)
+- Ollama
+- VS Code
+- LaTeX (IEEE papers)
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abheytiwari&show_icons=true&theme=tokyonight" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abheytiwari&layout=compact&theme=tokyonight" />
+</p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abheytiwari&show_icons=true&locale=en&layout=compact" alt="abheytiwari" /></p>
+---
+
+### 🌐 Connect With Me
+
+<p align="left">
+<a href="https://twitter.com/abhey_tiwari" target="_blank">
+  <img src="https://img.shields.io/twitter/follow/abhey_tiwari?logo=twitter&style=for-the-badge" />
+</a>
+<a href="https://linkedin.com/in/abhey-tiwari-891710274" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Abhey%20Tiwari-blue?style=for-the-badge&logo=linkedin" />
+</a>
+</p>
+
+---
+
+### 🧭 Philosophy
+
+> I don’t chase frameworks.  
+> I chase understanding.  
+> If it breaks in production, I want to know *why*.
+
+---
+
