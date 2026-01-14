@@ -118,12 +118,20 @@
 ## 📊 Engineering Metrics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abheytiwari&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&text_color=8b949e&icon_color=58A6FF&hide=stars" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abheytiwari&layout=compact&theme=transparent&hide_border=true&title_color=58A6FF&text_color=8b949e" height="150" alt="languages graph" />
-</div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abheytiwari&theme=dark&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" alt="GitHub Streak" />
+  <a href="https://github.com/abheytiwari">
+    <img height="160" src="https://github-readme-stats.vercel.app/api?username=abheytiwari&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9" />
+  </a>
+  <a href="https://github.com/abheytiwari">
+    <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abheytiwari&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=c9d1d9" />
+  </a>
+
+  <br/>
+
+  <a href="https://github.com/abheytiwari">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=abheytiwari&theme=react&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" />
+  </a>
+
 </div>
 
 ---
