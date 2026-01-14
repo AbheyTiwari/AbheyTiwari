@@ -17,7 +17,6 @@
 
 ---
 
-<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1187836/screenshots/6539429/programer.gif"/>
 
 ## 🧠 About Me
 
@@ -75,6 +74,7 @@ Features:
 **Impact**: Fully functional voice assistant with contextual awareness
 
 </td>
+<br>
 <td width="50%">
 
 ### 🛡️ Maitri AI
