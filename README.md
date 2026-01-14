@@ -1,5 +1,7 @@
 <div align="center">
 
+![Banner](./istockphoto-1469534804-1024x1024.jpg)
+
 # 👋 Hey, I'm Abhey Tiwari
 
 ### Math + CS · AI Systems Builder · Production-First Developer
