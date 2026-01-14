@@ -74,7 +74,6 @@ Features:
 **Impact**: Fully functional voice assistant with contextual awareness
 
 </td>
-<br>
 <td width="50%">
 
 ### 🛡️ Maitri AI
