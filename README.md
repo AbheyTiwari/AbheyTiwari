@@ -87,6 +87,13 @@ class AbheyTiwari:
 
 ## 💼 Experience
 
+### **Tech, Research & Innovation Intern** | *Draupadi Dream Trust*
+*Jul 2025 – Aug 2025*
+
+- Conducted independent research on the Yamuna River (religious, cultural, environmental perspectives)
+- Analyzed Delhi Jal Board datasets for urban water issues
+- Co-authored website redevelopment plans with technical documentation
+
 ### **Frontend Developer (Remote)** | *BeyondRiffs*
 *Sept 2024 – Dec 2024*
 
@@ -94,13 +101,6 @@ class AbheyTiwari:
 - **25% load time reduction** (measured via Lighthouse before/after optimization)
 - **30% faster feature turnaround** with modular microservices architecture
 - Focused on performance optimization and API design
-
-### **Tech, Research & Innovation Intern** | *Draupadi Dream Trust*
-*Jul 2025 – Aug 2025*
-
-- Conducted independent research on the Yamuna River (religious, cultural, environmental perspectives)
-- Analyzed Delhi Jal Board datasets for urban water issues
-- Co-authored website redevelopment plans with technical documentation
 
 ### **Website Developer** | *Mangalam Valley Resort*
 *Jul 2023 – Nov 2023*
