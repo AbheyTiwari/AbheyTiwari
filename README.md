@@ -1,6 +1,5 @@
 <div align="center">
-  # ABHEY TIWARI
-  
+ 
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Building+Privacy-First+AI+Systems;Local+LLM+Orchestration;Production-Grade+Infrastructure" alt="Typing SVG" />
   </a>
