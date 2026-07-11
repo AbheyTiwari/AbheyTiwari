@@ -1,5 +1,3 @@
-<div align="center">
-
  ```python
 class AbheyTiwari:
     def __init__(self):
