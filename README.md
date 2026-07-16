@@ -3,16 +3,14 @@
 <div align="left">
  <img width="8w0" height="60" alt="gif" src="https://github.com/user-attachments/assets/b2b184f3-c77f-44ad-b7b0-c8b44fc02be1" />
 </div>
- ```
-   class AbheyTiwari:
+```
+  class AbheyTiwari:
     def __init__(self):
         self.education = "BSc Mathematical Sciences @ Delhi University"
         self.focus = ["Agentic AI", "RAG Systems", "Local LLMs"]
         self.philosophy = "Understanding systems > framework hype"
-    
     def stack(self):
         return ["Python", "FastAPI", "Ollama", "FAISS", "Linux VMs"]
-    
     def motto(self):
         return "If it breaks in production, I want to know why"
  ```
