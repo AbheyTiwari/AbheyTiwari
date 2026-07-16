@@ -1,3 +1,8 @@
+<div align="top">
+ <imge alt="banner" src="istockphoto-1469534804-1024x1024.jpg" />
+<div align="left">
+ <img width="800" height="600" alt="gif" src="https://github.com/user-attachments/assets/b2b184f3-c77f-44ad-b7b0-c8b44fc02be1" />
+</div>
  ```python
 class AbheyTiwari:
     def __init__(self):
