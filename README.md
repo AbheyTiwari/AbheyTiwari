@@ -1,7 +1,7 @@
 <div align="top">
  <imge alt="banner" src="istockphoto-1469534804-1024x1024.jpg" />
 <div align="left">
- <img width="800" height="600" alt="gif" src="https://github.com/user-attachments/assets/b2b184f3-c77f-44ad-b7b0-c8b44fc02be1" />
+ <img width="8w0" height="60" alt="gif" src="https://github.com/user-attachments/assets/b2b184f3-c77f-44ad-b7b0-c8b44fc02be1" />
 </div>
  ```python
 class AbheyTiwari:
@@ -15,7 +15,6 @@ class AbheyTiwari:
     
     def motto(self):
         return "If it breaks in production, I want to know why"
-```
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Building+Privacy-First+AI+Systems;Local+LLM+Orchestration;Production-Grade+Infrastructure" alt="Typing SVG" />
   </a>
